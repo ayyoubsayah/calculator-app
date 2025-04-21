@@ -29,7 +29,7 @@ You can download the executable file from the latest release:
 Or run the Python script directly:
 
 ```bash
-python calculator.py
+python3 calculator.py
 ```
 
 ---
